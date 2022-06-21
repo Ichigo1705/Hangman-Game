@@ -1,0 +1,25 @@
+Nile Crocodile:Crocodylus niloticus
+Bear:Ursidae
+Cat:Felis catus
+Dog:Canis lupus familiaris
+African Elephant:Loxodonta
+Red Fox:Vulpes vulpes
+Goat:Capra aegagrus hircus
+Horse:Equus caballus
+Jackal:Canis Aureus
+Kangaroo:Macropodidae
+Lion:Panthera leo
+Monkey:Cercopithecidae
+Nilgai:Boselaphus tragocamelus
+Orangutan:Pongo
+Pig:Sus scrofa domesticus 
+Quoll:Dasyurus
+European Rabbit:Oryctolagus cuniculus
+Sheep:Ovis aries
+Tiger:Panthera tigris
+Urial:Ovis vignei
+Vole:Microtus arvalis
+Wolf:Canis lupus
+Clawed Frog:Xenopus
+Domestic Yak:Bos grunniens
+Zebra:Equus quagga
